@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-const rootDomain = "syaif-sr18.workers.dev"; // Ganti dengan domain utama kalian
-const serviceName = "starnet11"; // Ganti dengan nama workers kalian
+const rootDomain = "starnet-my.my.id"; // Ganti dengan domain utama kalian
+const serviceName = "starnet"; // Ganti dengan nama workers kalian
 const apiKey = "4rdPACo0_lOK4hvAMsV5fVIBoz6caNEw5-D6Nkx7"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "syaif.sr18@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "46416cf45c834ca7e1a7968d5ccd9475"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
